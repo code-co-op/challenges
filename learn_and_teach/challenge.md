@@ -1,4 +1,4 @@
-# Design Week Special: Learn & Teach
+# Code Co-op Challenge: Learn & Teach
 
 ## Challenge
 
