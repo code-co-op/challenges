@@ -1,4 +1,4 @@
-# Design Week Special: Pattern Hunt
+# Design Week Special: Learn & Teach
 
 ## Challenge
 
