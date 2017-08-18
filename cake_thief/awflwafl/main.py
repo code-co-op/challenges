@@ -1,4 +1,4 @@
-# This is the "Newbie Club" solution taht was developed in a TDD approach, without any refactoring
+# This is the "Newbie Club" solution that was developed in a TDD approach, without any refactoring
 
 from collections import namedtuple
 
